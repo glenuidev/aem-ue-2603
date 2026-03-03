@@ -37,12 +37,9 @@
     "stylelint": "17.0.0",
     "stylelint-config-standard": "40.0.0"
   },
-<<<<<<< HEAD
-=======
   "volta": {
     "node": "20.20.0"
   },
->>>>>>> 7b740cf4d9ea08e8a2c46b6f9c7e488965ee65cc
   "dependencies": {
     "@adobe/aem-cli": "^16.16.24"
   }
