@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# AEM UE Training Project
+AEM Edge Delivery Services project with Universal Editor authoring.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
